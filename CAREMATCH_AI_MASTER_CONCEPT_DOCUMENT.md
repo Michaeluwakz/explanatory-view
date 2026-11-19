@@ -678,4 +678,5 @@ We invite you to partner with us in transforming this vital vision into an endur
 Founder & Chief Executive Officer  
 **CareMatch AI Technologies**  
 Direct Inquiries: `michael@carematch.ai`  
-Platform: `https://carematch.ai`
+Platform: https://carematchaii.vercel.app 
+
