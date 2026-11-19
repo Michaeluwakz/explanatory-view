@@ -6,12 +6,7 @@
 
 **Document Version:** 3.0  
 **Target Audience:** Strategic Partners, Healthcare Systems, Regulatory Bodies, Technology Providers & Investors  
-**Executive Leadership:**  
-- **Michael Uwakwe** — Founder & Chief Executive Officer (`michael@carematch.ai`)  
-- **Ezeani Okechukwu** — Chief Research Officer (Clinical Research & Guidelines)  
-- **Joshua Osayi** — Business Management Advisor (Strategy & Operations)  
-**Corporate Headquarters:** Lagos, Nigeria  
-**Platform Infrastructure:** [https://carematch.ai](https://carematch.ai)  
+
 **Motto:** *"Earlier Discovery."*  
 **Tagline:** *"CareMatch: Where AI Meets Human Compassion."*
 
